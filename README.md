@@ -33,3 +33,6 @@ The sentiment analysis files and the topic modelling file can be run normally. T
 To then view the dashboard in your browser, visit: http://127.0.0.1:8046
 
 The dashboard provides interactive visualisations such as sentiment distribution over time and sentiment chart, word clouds and averages from the data, such as average likes. 
+
+## NOTE
+The folders TwitterData and sentimentAnalysis, which include the data used for this project, are not included in this repository due to their file sizes.
